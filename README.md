@@ -1,5 +1,5 @@
 # Retail Sales Dashboard Analysis
-![Dashboard Preview](Dashboard-screenshot.JPG)
+![Dashboard Preview](Dashboard-screenshot.jpg)
 ## 📊 Insights
 
 1. **Total Sales:** 58.39M SAR
